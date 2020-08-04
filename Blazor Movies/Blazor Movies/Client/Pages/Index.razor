@@ -1,0 +1,22 @@
+﻿@page "/"
+
+<p>HELLO @CustomToLower(name)</p>
+
+<p>Lets add 2 + 2 = @(2+2)</p>
+
+<button @onclick = "@WriteInLog">CLICK ME</button>
+
+@code
+{
+    string name = "LESPER";
+
+    string CustomToLower(string value) => value.ToLower();
+
+    void WriteInLog()
+    {
+        Console.WriteLine("KLIKNATO");
+    }
+
+}
+
+
