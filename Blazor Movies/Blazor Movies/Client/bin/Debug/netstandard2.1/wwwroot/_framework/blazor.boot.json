@@ -2,11 +2,11 @@
   "cacheBootResources": true,
   "config": [ ],
   "debugBuild": true,
-  "entryAssembly": "Blazor_Movies.Client",
+  "entryAssembly": "BlazorMovies.Client",
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "Blazor_Movies.Client.dll": "sha256-YWwhzhMPyhkepa+l\/QhPtsaERkAirxyUpWV\/gHvrAaM=",
+      "BlazorMovies.Client.dll": "sha256-vcGg+P2JnsQWy7xp3yOAIZjjOskEXMcAzOt+aN6GpTE=",
       "System.Net.Http.Json.dll": "sha256-99dseBOagY3mzu5Y8Eqm8gRI+o8QbbCp7R2Ew9bQ+5E=",
       "System.Buffers.dll": "sha256-ZxXy75PYbzJxNfAc\/SAP1nUYm4gt1jSaOpFnBb9m85M=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -44,7 +44,8 @@
       "System.ComponentModel.DataAnnotations.dll": "sha256-LIfCYwg+PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=",
       "Microsoft.AspNetCore.Components.dll": "sha256-PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=",
       "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-6gJMwefpsWLHWsEipZp143xn8k2Ea27upnXqjUT6iNI=",
-      "Blazor Movies.Shared.dll": "sha256-S6izB5t9yF28OnYq2Z\/QAwIkSPEo4otMaHO6DH5JsSg=",
+      "Microsoft.JSInterop.dll": "sha256-LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=",
+      "BlazorMovies.Shared.dll": "sha256-njYLCbAuGf87YJ1grTEJ6mjANlX\/QlH628UC\/oZeZRk=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-FJ+rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=",
       "Microsoft.Extensions.DependencyInjection.dll": "sha256-oK1Bjv95fH+hSbogUkJE+xDAI203kJG6lL6Sm\/NuPWg=",
       "Microsoft.Extensions.Primitives.dll": "sha256-y\/FyJQOcW2TOcTp7Iuv8brGBzL5ZP0oJdG7ysK+gtKc=",
@@ -57,12 +58,11 @@
       "Microsoft.Extensions.FileProviders.Abstractions.dll": "sha256-DrtNiKIMjfSOdamH5Bs5zHmjFADgNiwrY5tRgTm6XuI=",
       "Microsoft.Extensions.Logging.dll": "sha256-+kkwUt5LUrFrnFcHiSvLP3Ps50UAimB6C5utgehqOo4=",
       "Microsoft.Extensions.Options.dll": "sha256-rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=",
-      "Microsoft.JSInterop.dll": "sha256-LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "Blazor_Movies.Client.pdb": "sha256-9687vLamvCuohahD7qJyO5B\/eCaIOOPKnwUsZFNXAuU=",
-      "Blazor Movies.Shared.pdb": "sha256-ETYKFRAxNzsFZpNZn6adRAbD\/Yhii\/cG9JMn+gH30Rk="
+      "BlazorMovies.Client.pdb": "sha256-R8tVlnUpYjleP2CxIHU++Bc4eclkiqwo0u8bMwFWQEM=",
+      "BlazorMovies.Shared.pdb": "sha256-jOUAvrV8wFR1l67tLdQxk16sbv1UHogwG1XMQsORyto="
     },
     "runtime": {
       "dotnet.3.2.0.js": "sha256-mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=",

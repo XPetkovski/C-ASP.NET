@@ -6,7 +6,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System.Linq;
 
-namespace Blazor_Movies.Server
+namespace BlazorMovies.Server
 {
     public class Startup
     {

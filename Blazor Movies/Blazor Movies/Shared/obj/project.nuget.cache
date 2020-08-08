@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rKsXbHJ9r3OO/dTE3hxNATIk1F6HPIDvZR1pFQcBKj7Xm/NOa9g/KYqX3aVzdO5Vk+AZ1gOY0BQzbLXpYzIdIA==",
+  "dgSpecHash": "G7c3OF/qhw6pyz54SZf8/ovcukwCJ2nX1dGbCfQdzHLcGNDjj3j0ZmmfzWygUq3DqtFSkP2Kh+aEscgUFfgV9Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hristijan\\Documents\\C# ASP.NET\\Blazor Movies\\Blazor Movies\\Shared\\Blazor Movies.Shared.csproj",
+  "projectFilePath": "C:\\Users\\Hristijan\\Documents\\C# ASP.NET\\Blazor Movies\\Blazor Movies\\Shared\\BlazorMovies.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

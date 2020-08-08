@@ -8,7 +8,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
-namespace Blazor_Movies.Client
+namespace BlazorMovies.Client
 {
     public class Program
     {

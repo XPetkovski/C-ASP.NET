@@ -1,0 +1,70 @@
+﻿@inject IJSRuntime JsRuntime
+
+<input type="checkbox" @bind="displayButtons"/>
+
+<GenericList List="Movies">
+    <ElementTemplate Context="movie">
+        <InvidivualMovie movie="movie" DisplayButtons="displayButtons" DeleteMovie="DeleteMovie" />
+    </ElementTemplate>
+</GenericList>
+
+<Confirmation @ref="confirmation" onCancel="onCancel" onConfirm="onConfirm">
+    <div>Do you wish to delete @movieToBeDeleted.Name?</div>
+    </Confirmation>
+
+@code {
+    Confirmation confirmation;
+    [Parameter] public List<Movie> Movies { get; set; }
+    //[Parameter] public RenderFragment ChildComponent { get; set; }
+
+    bool displayButtons = false;
+
+    Movie BladeRunner2049 = new Movie()
+    {
+        Name = "Blade Runner 2049",
+        ReleaseDate = new DateTime(2017, 10, 3)
+    };
+    Movie movieToBeDeleted;
+    public async Task DeleteMovie(Movie movie)
+    {
+        movieToBeDeleted = movie;
+        confirmation.Show();
+        /*var confirmed = await JsRuntime.Confirm($"Are you sure you want to delete {movie.Name}?");
+        if (confirmed)
+        {
+            Movies.Remove(movie);
+        }*/
+    }
+
+    void onConfirm()
+    {
+        Movies.Remove(movieToBeDeleted);
+        confirmation.Hide();
+        movieToBeDeleted = null;
+    }
+
+    void onCancel()
+    {
+        confirmation.Hide();
+        movieToBeDeleted = null;
+    }
+
+    protected override void OnInitialized()
+    {
+        Console.WriteLine("OnInitialized. Movies.Count = " + Movies.Count.ToString());
+    }
+    protected override void OnParametersSet()
+    {
+        Console.WriteLine("OnParametersSet. Movies.Count = " + Movies.Count.ToString());
+    }
+
+    protected override void OnAfterRender(bool firstRender)
+    {
+        Console.WriteLine("OnAfterRender. FirstRender = " + firstRender.ToString());
+    }
+
+    protected override bool ShouldRender()
+    {
+        return true;
+    }
+}

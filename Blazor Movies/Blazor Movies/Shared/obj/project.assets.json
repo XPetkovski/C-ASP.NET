@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hristijan\\Documents\\C# ASP.NET\\Blazor Movies\\Blazor Movies\\Shared\\Blazor Movies.Shared.csproj",
-      "projectName": "Blazor Movies.Shared",
-      "projectPath": "C:\\Users\\Hristijan\\Documents\\C# ASP.NET\\Blazor Movies\\Blazor Movies\\Shared\\Blazor Movies.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\Hristijan\\Documents\\C# ASP.NET\\Blazor Movies\\Blazor Movies\\Shared\\BlazorMovies.Shared.csproj",
+      "projectName": "BlazorMovies.Shared",
+      "projectPath": "C:\\Users\\Hristijan\\Documents\\C# ASP.NET\\Blazor Movies\\Blazor Movies\\Shared\\BlazorMovies.Shared.csproj",
       "packagesPath": "C:\\Users\\Hristijan\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Hristijan\\Documents\\C# ASP.NET\\Blazor Movies\\Blazor Movies\\Shared\\obj\\",
       "projectStyle": "PackageReference",

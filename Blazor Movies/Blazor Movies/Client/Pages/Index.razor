@@ -1,22 +1,32 @@
 ﻿@page "/"
+@*@inject SingletonService singleton
+    @inject IRepository repository
+        <p>Singleton count: @singleton.Value</p>*@
+<div>
+    <h3>Movie</h3>
+    <MoviesList Movies="movies" />
+</div>
 
-<p>HELLO @CustomToLower(name)</p>
-
-<p>Lets add 2 + 2 = @(2+2)</p>
-
-<button @onclick = "@WriteInLog">CLICK ME</button>
-
+<button @onclick="AddNewMovie">Add new movie</button>
 @code
 {
-    string name = "LESPER";
-
-    string CustomToLower(string value) => value.ToLower();
-
-    void WriteInLog()
+    private MoviesList moviesList;
+    private List<Movie> movies;
+    protected override void OnInitialized()
     {
-        Console.WriteLine("KLIKNATO");
+        //await Task.Delay(3000);
+        movies = new List<Movie>()
+            {
+                new Movie() { Name = "Alita Battle Angel", ReleaseDate = new DateTime(2019, 1, 31) },
+                new Movie() { Name = "Ready Player One", ReleaseDate = new DateTime(2018, 3, 28) },
+                new Movie() { Name = "Blade Runner", ReleaseDate = new DateTime(1982, 6, 25) }
+            };
     }
 
+    public void AddNewMovie()
+    {
+        movies.Add(new Movie() { Name = "Movie Sample", ReleaseDate = DateTime.Today });
+    }
 }
 
 

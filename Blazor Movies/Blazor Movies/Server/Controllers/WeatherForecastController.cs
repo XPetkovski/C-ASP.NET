@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace Blazor_Movies.Server.Controllers
+namespace BlazorMovies.Server.Controllers
 {
     [ApiController]
     [Route("[controller]")]

@@ -221,7 +221,6 @@ C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\D
 C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\integrity\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash
 C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\integrity\PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=.hash
 C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\integrity\6gJMwefpsWLHWsEipZp143xn8k2Ea27upnXqjUT6iNI=.hash
-C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\integrity\S6izB5t9yF28OnYq2Z-QAwIkSPEo4otMaHO6DH5JsSg=.hash
 C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\integrity\FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash
 C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\integrity\oK1Bjv95fH_hSbogUkJE_xDAI203kJG6lL6Sm-NuPWg=.hash
 C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\integrity\y-FyJQOcW2TOcTp7Iuv8brGBzL5ZP0oJdG7ysK_gtKc=.hash
@@ -236,7 +235,6 @@ C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\D
 C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\integrity\rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash
 C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\integrity\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash
 C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
-C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\integrity\ETYKFRAxNzsFZpNZn6adRAbD-Yhii-cG9JMn_gH30Rk=.hash
 C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
@@ -366,6 +364,14 @@ C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\D
 C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\staticwebassets\Blazor_Movies.Client.StaticWebAssets.xml
 C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\Blazor_Movies.Client.dll
 C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\Blazor_Movies.Client.pdb
-C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\integrity\YWwhzhMPyhkepa_l-QhPtsaERkAirxyUpWV-gHvrAaM=.hash
-C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\integrity\9687vLamvCuohahD7qJyO5B-eCaIOOPKnwUsZFNXAuU=.hash
-C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\integrity\eorRxmA4byyX9xrrBztXHX4N_QDFHesWGimqq9V24_k=.hash
+C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\integrity\bwv-1MYc62ipWXUg0YMMBTVqIASu0aMZ4QWkc68TjgE=.hash
+C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\integrity\T5ca5meX27nmQT_yvRAlMFscXMbSTe8rDXVdiKkJ5r0=.hash
+C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MoviesList.razor.g.cs
+C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\Razor\Shared\MoviesList.razor.g.cs
+C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\InvidivualMovie.razor.g.cs
+C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\Razor\Shared\InvidivualMovie.razor.g.cs
+C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\GenericList.razor.g.cs
+C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\Razor\Shared\GenericList.razor.g.cs
+C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\integrity\-kyZCluG0iiIM9FOS_fMOdYIfsTPe4lCbxAKRlqJ8hM=.hash
+C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\integrity\Dh4FPR68k-vfYHn9XOVe1jd9GnvyjthYOI-9n6FdHVM=.hash
+C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Client\obj\Debug\netstandard2.1\integrity\5V9BPggYTvvjh5QHYyreX_s0uTCyB-nWngFaNXQcD4o=.hash

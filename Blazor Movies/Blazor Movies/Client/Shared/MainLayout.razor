@@ -1,4 +1,4 @@
-﻿@inherits LayoutComponentBase
+﻿    @inherits LayoutComponentBase
 
 <div class="sidebar">
     <NavMenu />
@@ -10,6 +10,23 @@
     </div>
 
     <div class="content px-4">
-        @Body
+        <CascadingValue Value="@appstate">
+                @Body
+            
+        </CascadingValue>
+        
+        @*<span style="color:green">This is from the layout</span>
+        <BlazorMovies.Client.Pages.Counter />*@
     </div>
 </div>
+
+@code
+{
+    AppState appstate = new AppState();
+    public class AppState
+    {
+        public string Color { get; set; } = "green";
+        public string Size { get; set; } = "12px";
+    }
+
+}

@@ -1,0 +1,46 @@
+﻿@typeparam TItem
+
+@if (List == null)
+{
+    @*<img src="https://media1.giphy.com/media/cnzP4cmBsiOrccg20V/giphy.gif" />*@
+    @if (NullTemplate != null)
+    {
+        @NullTemplate
+    }
+    else
+    {
+        //default content
+        <img src="https://media1.giphy.com/media/cnzP4cmBsiOrccg20V/giphy.gif" />
+    }
+}
+else if (List.Count == 0)
+{
+    @if (EmptyTemplate != null)
+    {
+        @EmptyTemplate
+    }
+    else
+    {
+        //default content
+        <img src="https://media1.giphy.com/media/cnzP4cmBsiOrccg20V/giphy.gif" />
+    }
+    <text>There are no movies to show.</text>
+}
+else
+{
+
+    @foreach (var element in List)
+    {
+        
+        @ElementTemplate(element)
+    }
+    @*<p>Title: <b>@BladeRunner2049.Name</b></p>*@
+    @*<p>Release Date: <b>@BladeRunner2049.ReleaseDate.ToString("dd MMM yyyy")</b></p>*@
+}
+@code
+{
+    [Parameter] public RenderFragment NullTemplate { get; set; }
+    [Parameter] public RenderFragment EmptyTemplate { get; set; }
+    [Parameter] public RenderFragment<TItem> ElementTemplate { get; set; }
+    [Parameter] public List<TItem> List { get; set; }
+}

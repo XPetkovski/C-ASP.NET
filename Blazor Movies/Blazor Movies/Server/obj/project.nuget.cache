@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qV1L6j8S8/PuIM0VcsJExHzN6FqS3iB82ZgQObgJZcIq7vXPncYslmw1omLJewt3ddHqwqpLhDIfFVlLPmx6SQ==",
+  "dgSpecHash": "T7Lzq6UbutwZ6xaPFkkFxYbUadAl6EkTpZF6sqwUIgUHkRUXcINPo/HQtjoeb1wcyn2xXo8JK8WT2Xrg3UZBYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hristijan\\Documents\\C# ASP.NET\\Blazor Movies\\Blazor Movies\\Server\\Blazor Movies.Server.csproj",
+  "projectFilePath": "C:\\Users\\Hristijan\\Documents\\C# ASP.NET\\Blazor Movies\\Blazor Movies\\Server\\BlazorMovies.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hristijan\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.6\\microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",
     "C:\\Users\\Hristijan\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.6\\microsoft.aspnetcore.components.3.1.6.nupkg.sha512",
