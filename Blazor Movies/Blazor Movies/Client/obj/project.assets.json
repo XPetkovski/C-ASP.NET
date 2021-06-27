@@ -1653,7 +1653,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hristijan\\.nuget\\packages\\": {}
+    "C:\\Users\\Hristijan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -1664,8 +1665,12 @@
       "packagesPath": "C:\\Users\\Hristijan\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Hristijan\\Documents\\C# ASP.NET\\Blazor Movies\\Blazor Movies\\Client\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Hristijan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1677,6 +1682,7 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "projectReferences": {
             "C:\\Users\\Hristijan\\Documents\\C# ASP.NET\\Blazor Movies\\Blazor Movies\\Shared\\BlazorMovies.Shared.csproj": {
               "projectPath": "C:\\Users\\Hristijan\\Documents\\C# ASP.NET\\Blazor Movies\\Blazor Movies\\Shared\\BlazorMovies.Shared.csproj"
@@ -1692,6 +1698,7 @@
     },
     "frameworks": {
       "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
         "dependencies": {
           "Microsoft.AspNetCore.Components.WebAssembly": {
             "target": "Package",
@@ -1727,7 +1734,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

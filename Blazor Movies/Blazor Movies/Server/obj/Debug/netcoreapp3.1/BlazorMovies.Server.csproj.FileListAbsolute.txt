@@ -5,7 +5,6 @@ C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Server\obj\D
 C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Server\obj\Debug\netcoreapp3.1\BlazorMovies.Server.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Server\obj\Debug\netcoreapp3.1\BlazorMovies.Server.RazorAssemblyInfo.cache
 C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Server\obj\Debug\netcoreapp3.1\BlazorMovies.Server.RazorAssemblyInfo.cs
-C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Server\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
@@ -213,3 +212,4 @@ C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Server\obj\D
 C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Server\obj\Debug\netcoreapp3.1\BlazorMovies.Server.dll
 C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Server\obj\Debug\netcoreapp3.1\BlazorMovies.Server.pdb
 C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Server\obj\Debug\netcoreapp3.1\BlazorMovies.Server.genruntimeconfig.cache
+C:\Users\Hristijan\Documents\C# ASP.NET\Blazor Movies\Blazor Movies\Server\obj\Debug\netcoreapp3.1\scopedcss\bundle\BlazorMovies.Server.styles.css

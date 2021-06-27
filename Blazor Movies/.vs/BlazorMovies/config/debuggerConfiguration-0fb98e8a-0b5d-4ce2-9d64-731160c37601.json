@@ -1,1 +1,9 @@
-{"chromiumDebuggerPort":58079}
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "port": 58079,
+      "name": "Visual Studio launch configuration override"
+    }
+  ]
+}

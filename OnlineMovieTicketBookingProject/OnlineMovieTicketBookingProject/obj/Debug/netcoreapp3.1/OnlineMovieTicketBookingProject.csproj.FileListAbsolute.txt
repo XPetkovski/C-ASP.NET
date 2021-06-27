@@ -1,0 +1,8 @@
+C:\Users\Hristijan\Documents\C# ASP.NET\OnlineMovieTicketBookingProject\OnlineMovieTicketBookingProject\obj\Debug\netcoreapp3.1\OnlineMovieTicketBookingProject.csprojAssemblyReference.cache
+C:\Users\Hristijan\Documents\C# ASP.NET\OnlineMovieTicketBookingProject\OnlineMovieTicketBookingProject\obj\Debug\netcoreapp3.1\OnlineMovieTicketBookingProject.AssemblyInfoInputs.cache
+C:\Users\Hristijan\Documents\C# ASP.NET\OnlineMovieTicketBookingProject\OnlineMovieTicketBookingProject\obj\Debug\netcoreapp3.1\OnlineMovieTicketBookingProject.AssemblyInfo.cs
+C:\Users\Hristijan\Documents\C# ASP.NET\OnlineMovieTicketBookingProject\OnlineMovieTicketBookingProject\obj\Debug\netcoreapp3.1\OnlineMovieTicketBookingProject.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Documents\C# ASP.NET\OnlineMovieTicketBookingProject\OnlineMovieTicketBookingProject\obj\Debug\netcoreapp3.1\OnlineMovieTicketBookingProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hristijan\Documents\C# ASP.NET\OnlineMovieTicketBookingProject\OnlineMovieTicketBookingProject\obj\Debug\netcoreapp3.1\OnlineMovieTicketBookingProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hristijan\Documents\C# ASP.NET\OnlineMovieTicketBookingProject\OnlineMovieTicketBookingProject\obj\Debug\netcoreapp3.1\OnlineMovieTicketBookingProject.RazorAssemblyInfo.cache
+C:\Users\Hristijan\Documents\C# ASP.NET\OnlineMovieTicketBookingProject\OnlineMovieTicketBookingProject\obj\Debug\netcoreapp3.1\OnlineMovieTicketBookingProject.RazorAssemblyInfo.cs
